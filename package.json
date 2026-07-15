@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Using Cypress on Multiple Environments Demo",
   "dependencies": {
-    "cypress": "^6.1.0"
+    "cypress": "^15.18.1"
   },
   "scripts": {
     "cy:open": "cypress open",
